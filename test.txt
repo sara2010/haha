@@ -1,2 +1,4 @@
 this is my first  time to use Notepad++.
-add a new line again
+create 3 files
+add a new line again.
+HEAD ָ�롣
